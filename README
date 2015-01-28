@@ -1,22 +1,16 @@
-**** ATTENTION PLEASE ****
-May I have your attention please?
-Will the real Slim Shady please stand up?
-I repeat, will the real Slim Shady please stand up?
-We're gonna have a problem here..
-
-EVERYONE with Repo Access , PLEASE delet your old Source and CLONE a new one from Repo
-We dont want those fucked up commits merged in our core again!
-
-Be AWARE or ur Gonna Lose ur Access to Repo , Thank you for ur attention.
+# ![logo](http://wowsource.info/public/style_images/1_cooltext1537712788.gif) WoWSource Core
 
 
+## Requirements
 
-                                                 -- WoWSource v9  General information =
++ Platform: Linux, Windows or Mac
++ Processor with SSE2 support
++ MySQL ≥ 5.1.0
++ CMake ≥ 2.8.11.2 / 2.8.9 (Windows / Linux)
++ OpenSSL ≥ 1.0.0
++ GCC ≥ 4.7.2 (Linux only)
++ MS Visual Studio ≥ 12 (2013 Update 3) (Windows only)
 
-                                         The emulator its based on trinity core but not 100%
-
-
-                         ---Read The Rules---Read The Rules---Read The Rules---Read The Rules---Read The Rules---
 
 1. Please push every Commit with the base Information Like DB Core and which File or Sector is affected e.g: Core/Player: Fix Carsh | Core/Guilds: Fix XP gain System | DB/Loot: Correct the loot for Npc
 2: Push from now every SQL Update with Dates and from which Table it is. E.g: We modify some thing in creature_template us this as following: year_month_day_file number_world_creature_template.sql
@@ -31,6 +25,4 @@ Be AWARE or ur Gonna Lose ur Access to Repo , Thank you for ur attention.
 11. Before you deleting a Creature or deleting a whole instance, be sure to check EVERYTHING!!! as example: (creature_addon, game_event_creature, every referenced Loot Template. Be sure to hold our World Clean.
 12. Don push any fix if that gives db errors and if you not tested before and working has intendet!
 13. At the First mistake you will get a warning and the Second will get you out from our team if you not respect this rules!
-14. All who FORK this repo will be kicked out from REPO and exclude from our GROUP with no posiblity to RETURN!
-15. Sharing the files are totaly against the rules of this team by any member and any violation of the rules will be punished
-with 50000 dollars also kicked out and losing access and alot of dirty words about mom and family in general.
+
